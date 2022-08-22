@@ -1,2 +1,2 @@
 #Ignore every Emacs's files#
-**/0x02_emacs/**
+["~"]
