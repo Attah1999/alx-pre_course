@@ -1,0 +1,12 @@
+git config --global user.email "you@example.com
+git config --global user.name "your name"
+git add .
+git commit -m "My first commit"
+git push
+git commit -m "Starting to code today, so cool"
+git branch update_script
+git checkout update_script
+git checkout master
+git commit -m "Hot fix"
+git pull
+git commit -m "How to be up to date in git"
